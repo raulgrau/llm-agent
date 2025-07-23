@@ -1,0 +1,19 @@
+# Core dependencies
+google-api-python-client>=2.100.0
+google-generativeai>=0.3.0
+youtube-transcript-api>=0.6.0
+pytube>=15.0.0
+notion-client>=2.0.0
+python-dotenv>=1.0.0
+
+# Utility dependencies
+requests>=2.31.0
+python-dateutil>=2.8.0
+
+# Development dependencies (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
+pre-commit>=3.4.0
